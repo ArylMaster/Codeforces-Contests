@@ -16,21 +16,21 @@ The repository is structured as follows:
 ```
 Codeforces Contests/
 │
-├── Contest-XXXX/
-│   ├── Problem-A/
-│   ├── Problem-B/
+├── Round XXXX Div. X/
+│   ├── A.xxx
+│   ├── B.xxx
 │   ├── ...
 │
-├── Contest-YYYY/
-│   ├── Problem-A/
-│   ├── Problem-B/
+├── Round YYYY Div. Y/
+│   ├── A.yyy
+│   ├── B.yyy
 │   ├── ...
 │
 └── README.md
 ```
 
-- Each **Contest** folder corresponds to a specific Codeforces contest.
-- Each **Problem** folder within a contest contains the solution file(s) and any relevant input/output test cases.
+- Each **Round** folder corresponds to a specific Codeforces contest.
+- Each **Problem** file within a contest contains the solution.
 
 ## How to Use
 
